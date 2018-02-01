@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name"></string>
+    <string name="instagram_language">Idioma: Spanish</string>
+    <string name="instagram_logo">Instagram</string>
+    <string name="instagram_login">Iniciar sesión</string>
+    <string name="instagram_forgot_login">Olvida tus datos de acceso?</string>
+    <string name="instagram_get_help">Obtenga ayuda para iniciar sesión.</string>
+    <string name="instagram_or">O</string>
+    <string name="instagram_facebook_login">Iniciar sesión con Facebook</string>
+</resources>

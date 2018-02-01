@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="instagram_language">Language: English (United States)</string>
+    <string name="instagram_logo">Instagram</string>
+    <string name="instagram_login">Log In</string>
+    <string name="instagram_forgot_login">Forgout your login details?</string>
+    <string name="instagram_get_help">Get help signing in.</string>
+    <string name="instagram_or">OR</string>
+    <string name="instagram_facebook_login">Log in with Facebook</string>
+
+    <string-array name="language_array">
+        <item>English (US)</item>
+        <item>Nederlands</item>
+        <item>Espanol</item>
+    </string-array>
+</resources>

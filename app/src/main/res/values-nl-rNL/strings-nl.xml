@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name"></string>
+    <string name="instagram_language">Taal: Nederlands</string>
+    <string name="instagram_logo">Instagram</string>
+    <string name="instagram_login">Inloggen</string>
+    <string name="instagram_forgot_login">Inloggegevens vergeten?</string>
+    <string name="instagram_get_help">Ontvang hulp bij inloggen</string>
+    <string name="instagram_or">OF</string>
+    <string name="instagram_facebook_login">Log in met Facebook</string>
+</resources>
